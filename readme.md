@@ -7,6 +7,7 @@ Recommend using Ubuntu 16.04 and then recompiling the kernel with the following 
 - nosmap
 - nosmep
 - nokaslr
+- CONFIG_MODULES=y
 
 # Build
 
